@@ -1,7 +1,7 @@
 package main
 
 import (
-	"fmt"
+	"fmt" "os" "io"
 )
 
 var y = 42

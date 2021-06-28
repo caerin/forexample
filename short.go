@@ -5,6 +5,7 @@ import (
 )
 
 func main() {
+	//declare a variable and assign a value
 
 	x := 42
 	fmt.Println(x)
