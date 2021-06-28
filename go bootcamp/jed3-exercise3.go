@@ -11,7 +11,6 @@ func main() {
 
 		fmt.Println(bd)
 		bd++
-
 	}
-
+	fmt.Println(bd)
 }
